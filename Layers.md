@@ -2,7 +2,7 @@
 # Dence
 Dence (fully connected layer) - N parameters conectet to M parameters
 
-![](Pastedimage20240614210039.png)
+![](Resourses/Pastedimage20240614210039.png)
 # Convolutional
 
 A neuron (core) is a filter, that is, a matrix of certain coefficients (weights). Their optimal value is established during the training of the neural network.

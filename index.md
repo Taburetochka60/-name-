@@ -1,2 +1,2 @@
-[Obsidian](Pages/Obsidian)
-[Python](Pages/Python)
+[Obsidian](Obsidian)
+[Python](Python)
