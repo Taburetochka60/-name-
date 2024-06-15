@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,6 +149,7 @@
   },
   "active": "8a288223a09872be",
   "lastOpenFiles": [
+    "Untitled 4.canvas",
     "Python.md",
     "Layers.md",
     "ML.md",
