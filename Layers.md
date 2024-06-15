@@ -1,13 +1,13 @@
 # Dence
 Dence (fully connected layer) - N parameters conectet to M parameters
 
-![](../Pastedimage20240614210039.png)
+![](Pastedimage20240614210039.png)
 # Convolutional
 
 A neuron (core) is a filter, that is, a matrix of certain coefficients (weights). Their optimal value is established during the training of the neural network.
 
  The neuron multiplies the values of the filter matrix by pixel values. The result of the multiplication is summed. The resulting number shows the filter location in the picture. This process is called a package. For example, in a 32x32 picture, there are 784 squares that a filter can allocate. These numbers create a 28x28 matrix.
- ![](../Pastedimage20240614210106.png)
+ ![](Pastedimage20240614210106.png)
 ![](a5fc3d078f98465601ac65f5be909300.gif)
 # max/average pooling
 
