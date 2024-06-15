@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Layers.md",
+                "file": "Pages/Layers.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Layers.md",
+                "file": "Pages/Layers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Layers.md",
+                "file": "Pages/Layers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Layers.md"
+                "file": "Pages/Layers.md"
               }
             }
           }
@@ -155,5 +155,23 @@
     }
   },
   "active": "2caa4e97211a6e5b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Pages/Intoduction.md",
+    "Pages/Layers.md",
+    "Pages/Obsidian.md",
+    "Pages/index.md",
+    "Pages/input-output.md",
+    "Pages/ML.md",
+    "Pages/Python.md",
+    "Layers.md",
+    "Pages",
+    "Новая папка",
+    "Resourses/a5fc3d078f98465601ac65f5be909300.gif",
+    "Resourses/Pastedimage20240614220445.png",
+    "Resourses/Pastedimage20240614210106.png",
+    "Resourses/Pastedimage20240614210039.png",
+    "Resourses/Pastedimage20240614204838.png",
+    "Resourses",
+    "Images"
+  ]
 }

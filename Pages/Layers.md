@@ -1,3 +1,4 @@
+# Layers
 # Dence
 Dence (fully connected layer) - N parameters conectet to M parameters
 
