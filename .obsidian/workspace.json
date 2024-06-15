@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "b19e2e51ec3cf1da",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a0fcc5c4ca66b90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a288223a09872be",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0457fda2cadbfe11",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d3caee7da0741cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78a9ea1e4ae4fe36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49b3dc6a17f6590f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "235c5804f25362bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2e98df847b7ceea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7fdf019564956c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3cbda500188f3f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea7b7a7522c047e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb9fa909d29b52e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9890c5b80c73fc89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb52d498621081df",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "8a288223a09872be",
+  "lastOpenFiles": [
+    "Python.md",
+    "Layers.md",
+    "ML.md",
+    "Intoduction.md",
+    "input-output.md",
+    "Obsidian.md",
+    "Untitled 3.canvas",
+    "Pasted image 20240614220445.png",
+    "Pasted image 20240614210106.png",
+    "Pasted image 20240614210039.png",
+    "Pasted image 20240614204838.png",
+    "2024-06-13.md",
+    "Untitled 2.canvas",
+    "2024-06-09.md",
+    "Untitled 1.canvas",
+    "2024-05-24.md",
+    "Untitled.canvas",
+    "create a link.md"
+  ]
+}
