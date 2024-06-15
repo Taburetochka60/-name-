@@ -1,2 +1,2 @@
-[Obsidian](/Obsidian)
-[Python](Python)
+[Obsidian](Pages/Obsidian)
+[Python](Pages/Python)
