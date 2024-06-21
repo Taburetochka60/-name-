@@ -1,4 +1,5 @@
-# Layers
+
+# How to use???
 # Dence
 Dence (fully connected layer) - N parameters conectet to M parameters
 
