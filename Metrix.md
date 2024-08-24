@@ -1,7 +1,3 @@
-[Layers](Layers)
-[Metrix](Metrix)
-batch size = размер пакетов фотографий, 1 batch = 1 градиентный спуск
-
 Precision -> сколько из всего выбраного является истино позитивным
 $$  \require{enclose} \begin{array}{c} 
 Precision = \cfrac{TP}{TP + FP}
@@ -36,7 +32,7 @@ Accuracy = \cfrac{TP + TN}{TP + TN + FP + FN}
 
 \end{array} $$
 
-Loss function -> необходима для того, чтобы измерять и минимизировать ошибки модели, направлять процесс оптимизации параметров, регулировать сложность модели и оценивать её производительность.
+Loss function -> необходима для того, чтобы измерять и минимизировать ошибки модели, направлять процесс оптимизации параметров, регулировать сложность модели и оценивать её производительность. Существует множество видов функции потерь [Loss](Loss)
 
 standart derivation
 
@@ -47,27 +43,3 @@ normalization
 Gradient
 
 Regulization
-
-
-640 фотографий, batch size = 64, 100 пакетов будет и значит 100 градиентных спусков
-
-
-
-вне гласное правило batch size % 4 = 0 
-
-batch size маленткий -> мало эпох
-batch size большой -> много эпох
-
-## Beginer
-
-AI courses [Click](https://www.deeplearning.ai)
-LLM [Click](https://www.youtube.com/@AndrejKarpathy/videos)
-Layers types [Click](https://www.youtube.com/watch?v=DApk93qmHBE&list=PL-z9LMshkhjTqqOL15PwjndUetcgVhT2b)
-
-## Intermediate
-
-PyTorch, Real-Time segmentation/classification [Click](https://www.youtube.com/@Koldim2001/videos)
-
-## Advanced
-
-. . .
